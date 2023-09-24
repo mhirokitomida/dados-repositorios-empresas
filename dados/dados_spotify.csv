@@ -4,7 +4,7 @@
 2,spotify,android-auth,HTML,936,137,67,public,67,137
 3,spotify,android-sdk,HTML,2687,431,121,public,121,431
 4,spotify,android-store-service,Python,61,5,5,public,5,5
-5,spotify,annoy,C++,2054,11935,1140,public,1140,11935
+5,spotify,annoy,C++,2054,11934,1140,public,1140,11934
 6,spotify,annoy-java,Java,1007,134,44,public,44,134
 7,spotify,apollo,Java,2867,1650,233,public,233,1650
 8,spotify,apollo-elide,Java,36,1,2,public,2,1
@@ -13,7 +13,7 @@
 11,spotify,async-datastore-client,Java,128,72,29,public,29,72
 12,spotify,async-google-pubsub-client,Java,359,156,40,public,40,156
 13,spotify,backup-utils,Shell,3146,4,5,public,5,4
-14,spotify,basic-pitch,Python,2064,2331,155,public,155,2331
+14,spotify,basic-pitch,Python,2064,2332,155,public,155,2332
 15,spotify,basic-pitch-ts,TypeScript,10055,153,11,public,11,153
 16,spotify,batty,Python,104,0,1,public,1,0
 17,spotify,bazel-tools,Java,591,163,17,public,17,163
