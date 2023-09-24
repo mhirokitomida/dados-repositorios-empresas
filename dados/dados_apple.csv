@@ -32,7 +32,7 @@
 30,apple,example-package-fisheryates,Swift,21,180,63,public,63,180
 31,apple,example-package-playingcard,Swift,29,295,111,public,111,295
 32,apple,FHIRModels,Swift,4250,151,33,public,33,151
-33,apple,foundationdb,C++,168569,13240,1270,public,1270,13240
+33,apple,foundationdb,C++,168569,13242,1270,public,1270,13242
 34,apple,fstools,C,79,51,20,public,20,51
 35,apple,GCGC,Jupyter Notebook,4890,431,44,public,44,431
 36,apple,homebrew-apple,Ruby,508,2179,70,public,70,2179
@@ -41,7 +41,7 @@
 39,apple,learning-compressible-subspaces,Python,59,13,6,public,6,13
 40,apple,learning-subspaces,Python,7123,124,17,public,17,124
 41,apple,llvm-monorepo-root,,48,7,8,public,8,7
-42,apple,llvm-project,,2418264,874,305,public,305,874
+42,apple,llvm-project,,2418264,875,305,public,305,875
 43,apple,llvm-project-v5,C++,1352675,7,10,public,10,7
 44,apple,llvm-project-v5-split,C++,709358,6,7,public,7,6
 45,apple,MaterialX,,194326,13,1,public,1,13
@@ -73,7 +73,7 @@
 71,apple,ml-envmapnet,Python,2023,49,10,public,10,49
 72,apple,ml-equivariant-neural-rendering,Jupyter Notebook,46708,93,24,public,24,93
 73,apple,ml-facelit,Python,37279,426,36,public,36,426
-74,apple,ml-fastvit,Python,3185,1523,82,public,82,1523
+74,apple,ml-fastvit,Python,3185,1524,82,public,82,1524
 75,apple,ml-fct,Python,473,45,8,public,8,45
 76,apple,ml-finerecon,Python,163,88,7,public,7,88
 77,apple,ml-flair,Jupyter Notebook,6778,69,13,public,13,69
@@ -82,7 +82,7 @@
 80,apple,ml-gsn,Python,79900,284,46,public,46,284
 81,apple,ml-heart-rate-models,Python,226,31,2,public,2,31
 82,apple,ml-hierarchical-confusion-matrix,TypeScript,1871,277,28,public,28,277
-83,apple,ml-hypersim,Python,25001,1480,127,public,127,1480
+83,apple,ml-hypersim,Python,25001,1481,127,public,127,1481
 84,apple,ml-interspeech2022-phi_rtn,,34721,10,3,public,3,10
 85,apple,ml-knowledge-conflicts,Python,26,47,18,public,18,47
 86,apple,ml-live-pose,,132,43,3,public,3,43
@@ -132,7 +132,7 @@
 130,apple,sample-food-truck,Swift,25372,1606,128,public,128,1606
 131,apple,servicetalk,Java,60345,850,164,public,164,850
 132,apple,sourcekit-lsp,Swift,2723,2925,267,public,267,2925
-133,apple,swift,C++,1048516,64094,10288,public,10288,64094
+133,apple,swift,C++,1048527,64099,10288,public,10288,64099
 134,apple,swift-3-api-guidelines-review,Swift,147091,450,76,public,76,450
 135,apple,swift-algorithms,Swift,713,5276,417,public,417,5276
 136,apple,swift-argument-parser,Swift,3055,3054,290,public,290,3054
@@ -181,7 +181,7 @@
 179,apple,swift-internals,HTML,124,183,69,public,69,183
 180,apple,swift-issues,,2,5,3,public,3,5
 181,apple,swift-libcxx,C++,21003,18,20,public,20,18
-182,apple,swift-llbuild,C++,13264,1035,209,public,209,1035
+182,apple,swift-llbuild,C++,13264,1036,209,public,209,1036
 183,apple,swift-llbuild2,Swift,1367,275,30,public,30,275
 184,apple,swift-lldb,C++,131002,673,216,public,216,673
 185,apple,swift-llvm,LLVM,652414,814,192,public,192,814
@@ -206,7 +206,7 @@
 204,apple,swift-openapi-generator,Swift,483,641,50,public,50,641
 205,apple,swift-openapi-runtime,Swift,169,92,23,public,23,92
 206,apple,swift-openapi-urlsession,Swift,36,94,15,public,15,94
-207,apple,swift-org-website,SCSS,30138,410,120,public,120,410
+207,apple,swift-org-website,SCSS,30138,411,120,public,120,411
 208,apple,swift-package-collection-generator,Swift,197,87,25,public,25,87
 209,apple,swift-package-manager,Swift,27933,9394,1308,public,1308,9394
 210,apple,swift-package-registry-compatibility-test-suite,Swift,3017,3,6,public,6,3
@@ -225,7 +225,7 @@
 223,apple,swift-stress-tester,Swift,821,195,45,public,45,195
 224,apple,swift-syntax,Swift,20814,2490,293,public,293,2490
 225,apple,swift-system,Swift,353,1097,95,public,95,1097
-226,apple,swift-testing,Swift,193,321,7,public,7,321
+226,apple,swift-testing,Swift,193,326,7,public,7,326
 227,apple,swift-tools-support-async,Swift,192,28,18,public,18,28
 228,apple,swift-tools-support-core,Swift,1064,373,127,public,127,373
 229,apple,swift-xcode-playground-support,Swift,511,265,81,public,81,265
