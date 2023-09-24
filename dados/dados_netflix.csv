@@ -5,9 +5,9 @@
 3,netflix,aminator,Python,864,938,178,public,178,938
 4,netflix,apache-pyiceberg,Java,42023,1,0,public,0,1
 5,netflix,archaius,Java,3814,2422,489,public,489,2422
-6,netflix,asgard,Groovy,26590,2235,434,public,434,2235
+6,netflix,asgard,Groovy,26590,2234,434,public,434,2234
 7,netflix,astyanax,Java,6987,1034,394,public,394,1034
-8,netflix,atlas,Scala,99219,3331,279,public,279,3331
+8,netflix,atlas,Scala,99219,3330,279,public,279,3330
 9,netflix,atlas-docs,Python,104146,32,25,public,25,32
 10,netflix,aws-autoscaling,Shell,17,429,93,public,93,429
 11,netflix,awsobjectmapper,Groovy,228,41,41,public,41,41
@@ -24,7 +24,7 @@
 22,netflix,chaosmonkey,Go,2025,13872,1069,public,1069,13872
 23,netflix,Cloud-Prize,,274,165,460,public,460,165
 24,netflix,codec_compare,Python,13,26,13,public,13,26
-25,netflix,concurrency-limits,Java,719,3041,293,public,293,3041
+25,netflix,concurrency-limits,Java,719,3040,293,public,293,3040
 26,netflix,conductor,Java,29066,10225,2228,public,2228,10225
 27,netflix,conductor-community,Java,14570,54,65,public,65,54
 28,netflix,conductor-docs,Python,5144,0,0,public,0,0
@@ -98,7 +98,7 @@
 96,netflix,hollow,Java,23474,1101,202,public,202,1101
 97,netflix,hollow-reference-implementation,Java,188,38,44,public,44,38
 98,netflix,hubcommander,Python,779,1254,161,public,161,1254
-99,netflix,Hystrix,Java,9799,23606,4724,public,4724,23606
+99,netflix,Hystrix,Java,9799,23608,4724,public,4724,23608
 100,netflix,iceberg,Java,2531,455,60,public,60,455
 101,netflix,iep,Java,4995,84,43,public,43,84
 102,netflix,iep-shadow,,1283,5,14,public,14,5
@@ -178,7 +178,7 @@
 176,netflix,servo,Java,5422,1398,303,public,303,1398
 177,netflix,sherlock,R,384,24,4,public,4,24
 178,netflix,signal-wrapper,Go,775,34,5,public,5,34
-179,netflix,SimianArmy,Java,15326,7950,1152,public,1152,7950
+179,netflix,SimianArmy,Java,15326,7949,1152,public,1152,7949
 180,netflix,sleepy-puppy-docker,Dockerfile,9,43,19,public,19,43
 181,netflix,spark,Scala,179628,10,5,public,5,10
 182,netflix,spectator,Java,16958,707,157,public,157,707
@@ -210,7 +210,7 @@
 208,netflix,vizceral-component,JavaScript,1179,44,21,public,21,44
 209,netflix,vizceral-example,JavaScript,1988,361,167,public,167,361
 210,netflix,vizceral-react,JavaScript,1898,198,55,public,55,198
-211,netflix,vmaf,Python,101467,3836,698,public,698,3836
+211,netflix,vmaf,Python,101467,3835,698,public,698,3835
 212,netflix,vmaf_resource,,121293,13,5,public,5,13
 213,netflix,vp9-dash,,70982,40,9,public,9,40
 214,netflix,webpack-parse-query,JavaScript,3,12,10,public,10,12
