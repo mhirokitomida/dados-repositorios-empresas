@@ -17,10 +17,10 @@ class ManipulaRepositorios:
         self.headers = {'Authorization':"Bearer " + self.access_token,
                         'X-GitHub-Api-Version': '2022-11-28'}
 
-    def cria_repo(self, nome_repo):
+    def cria_repo(self, nome_repo, description):
         data = {
             "name": nome_repo,
-            "description": "Dados dos repositórios de algumas empresas",
+            "description": description,
             "private": False
         }
         response = requests.post(f"{self.api_base_url}/user/repos", 
